@@ -1,0 +1,15 @@
+# Core
+numpy
+scipy
+scikit-learn
+matplotlib
+
+# MuJoCo visualization (for streaming scripts)
+mujoco
+
+# Original ReBAIT framework (optional, for core/ modules)
+# numpy-quaternion
+# xarray
+# netCDF4
+# PyQt5
+# pyqtgraph
