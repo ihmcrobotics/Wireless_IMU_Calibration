@@ -1,6 +1,5 @@
 # Wireless IMU Calibration & Joint Angle Measurement 
-
-![Full leg streaming demo](media/full_leg_test(1).gif)
+![Full leg streaming demo](full_leg_test(1).gif)
 
 **Real-time Biofeedback and Analysis using IMU Tracking**
 
