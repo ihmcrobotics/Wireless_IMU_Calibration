@@ -1,5 +1,7 @@
 # Wireless IMU Calibration & Joint Angle Measurement 
-![Full leg streaming demo](full_leg_test.gif)
+
+<img width="480" height="302" alt="full_leg_test (1)" src="https://github.com/user-attachments/assets/d3031ff3-8f3b-4bc7-b49d-dbc2528840d4" />
+
 **Real-time Biofeedback and Analysis using IMU Tracking**
 
 This is a system for collecting IMU data and computing real-time biomechanical joint angles for biofeedback, clinical monitoring, and musculoskeletal simulation. It pairs low-cost wireless IMU hardware (ESP32 + MPU9250) with a gravity-plus-PCA functional calibration pipeline and streams joint angles into a MuJoCo musculoskeletal model at ~330–350 Hz with zero packet loss.
